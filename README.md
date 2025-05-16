@@ -1,12 +1,41 @@
-# React + Vite
+# SpaceApp
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![space-app](https://github.com/user-attachments/assets/35c696ea-26fe-4c30-81c6-b9af3a8c412a)
 
-Currently, two official plugins are available:
+Blog de astronomia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✔️ Principais tecnologias utilizadas
 
-## Expanding the ESLint configuration
+* React
+* Vite
+* Node.js
+* CSS
+* Eslint
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔨 Recursos do aplicativo
+-`Filtrar fotos por tags`  
+-`Buscar fotos por barra de pesquisa`  
+-`Favoritar fotos`  
+-`Visualizar imagem amplificada`  
+
+## ▶️ Como iniciar o projeto?
+
+No diretório do projeto, rodar:
+
+### `npm run dev`
+
+Roda o aplicativo no modo desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para acessar no navegador.
+
+A página vai recarregar se fizer edições.\
+Você também verá qualquer erro de lint no console
+
+### `npm run build`
+
+Compila o aplicativo para produção na pasta `build`.\
+
+### O projeto foi criado com React + Vite
+
+
+
+
