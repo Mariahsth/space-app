@@ -8,7 +8,7 @@ Blog de astronomia.
 
 * React
 * Vite
-* Node.js
+* JavaScript
 * CSS
 * Eslint
 
